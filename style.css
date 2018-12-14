@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Acme');
+
+.container {
+  width: 70%;
+  /* margin: 200px auto; */
+  text-align: center;
+  height: 50vh;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: rgb(27, 28, 30);
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Cabin', sans-serif;
+  font-size: 5rem;
+  color: rgb(237, 242, 240);
+}
+
+p {
+  font-size: 2rem;
+  color: rgb(191, 164, 77);
+  font-family: 'Acme', sans-serif;
+  letter-spacing: 3px;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
