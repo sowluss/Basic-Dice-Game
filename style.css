@@ -3,7 +3,6 @@
 
 .container {
   width: 70%;
-  /* margin: 200px auto; */
   text-align: center;
   height: 50vh;
   position: absolute;
@@ -39,12 +38,4 @@ p {
 
 img {
   width: 80%;
-}
-
-footer {
-  margin-top: 5%;
-  color: #EEEEEE;
-  text-align: center;
-  font-family: 'Indie Flower', cursive;
-
 }
